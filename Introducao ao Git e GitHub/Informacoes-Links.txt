@@ -1,0 +1,5 @@
+Site Oficial do Git para Downloads
+
+https://git-scm.com/downloads
+
+O git bast é um terminal estendido para otimizar o uso do git
